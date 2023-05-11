@@ -204,4 +204,3 @@ module "s3_bucket" {
   version             = "3.1.0"
   s3_object_ownership = "BucketOwnerEnforced"
 }
-}
